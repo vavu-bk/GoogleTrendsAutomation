@@ -4,7 +4,7 @@ Quick instructions to get up and running.
 
 ### What is this repository for? ###
 
-Pulling interest data from Google Trends using the Pytrends API.
+Pulling interest data from Google Trends for select keywords using the pytrends pseudo API.
 
 ### How do I get set up? ###
 
